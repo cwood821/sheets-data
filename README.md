@@ -1,6 +1,6 @@
 # Sheets Data
 
-> A tiny abstraction layer over Google Apps Scripts Sheets API
+> A tiny abstraction layer over Google Apps Script Sheets API
 
 Want to work with Google Spreadsheet Data but keep getting fooled by the API? Don't get fooled again!
 
